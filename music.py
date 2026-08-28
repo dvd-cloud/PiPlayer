@@ -1,7 +1,7 @@
 import os
 
 
-MUSIC_FOLDER = "/home/daan/Music"
+MUSIC_FOLDER = "/home/User/Music"
 
 
 def get_music():
