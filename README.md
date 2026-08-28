@@ -1,4 +1,6 @@
-# PiPlayer
+<img width="1024" height="1024" alt="ChatGPT Image 28 aug  2026 17_53_23" src="https://github.com/user-attachments/assets/5ae17fb0-18d8-4069-93c9-bcba2f4ecb8d" />
+
+## PiPlayer
 
 PiPlayer is a simple MP3 music player for a **Raspberry Pi Zero 1** running **Raspberry Pi OS Desktop** with a small **240×240 touchscreen/display**.
 
