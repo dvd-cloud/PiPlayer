@@ -1,10 +1,21 @@
-<img width="1024" height="1024" alt="ChatGPT Image 28 aug  2026 17_53_23" src="https://github.com/user-attachments/assets/5ae17fb0-18d8-4069-93c9-bcba2f4ecb8d" />
+
+<img width="64" height="64" alt="icon" src="https://github.com/user-attachments/assets/c5ac6030-b528-42e9-8d82-c59c6fa36ee3" />
 
 ## PiPlayer
 
 PiPlayer is a simple MP3 music player for a **Raspberry Pi Zero 1** running **Raspberry Pi OS Desktop** with a small **240×240 touchscreen/display**.
 
 The interface is built with **Pygame**. Music playback is handled by **VLC/libVLC through python-vlc**.
+
+
+<img width="300" height="250" alt="real hardware" src="https://github.com/user-attachments/assets/4161934b-9e69-4b7e-b759-8c175cfd13ba" />
+<img width="253" height="250" alt="screen shot" src="https://github.com/user-attachments/assets/cf85dd72-5081-4aa0-af90-a77cbd17bf12" />
+
+
+
+
+
+
 
 ## Why VLC for audio?
 
@@ -424,3 +435,6 @@ This version provides the foundation for a Raspberry Pi-based  music player usin
 This project is intended as a personal/educational Raspberry Pi project.
 
 When distributing the project, you must mention the name of this reposetory.
+
+
+
