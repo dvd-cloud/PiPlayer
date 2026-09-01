@@ -59,6 +59,7 @@ Pygame remains responsible for the graphical interface.
 - Fullscreen display
 - Simple GUI to keep CPU usage low on the Raspberry Pi Zero
 - VLC/libVLC as the audio engine
+- settings menu
 
 ## Hardware
 
@@ -187,6 +188,7 @@ PiPlayer/
 ├── gui.py
 ├── splash.py
 ├── config.py
+├── media_keys.py
 └── test_metadata.py
 ```
 
@@ -417,18 +419,31 @@ Possible future features:
 - shuffle
 - repeat
 - music search
-- automatic startup of PiPlayer
-- touchscreen optimization
 - improved animations
 - equalizer
 - support for additional audio formats
-- settings menu
+
 
 ## Version
 
 **PiPlayer Version 1.0**
 
 This version provides the foundation for a Raspberry Pi-based  music player using VLC/libVLC for reliable audio playback.
+
+**PiPlayer Version 1.1**
+
+This version added bluetooth media key support and settings menu.
+if you find bugs report them.
+
+
+
+
+
+
+
+<img width="234" height="242" alt="Knipsel2" src="https://github.com/user-attachments/assets/777aa2a4-3f43-439f-885e-fe3211450b06" />
+<img width="235" height="232" alt="Knipsel" src="https://github.com/user-attachments/assets/6f4437a4-4333-4bfb-a9f2-1ab33d229cc2" />
+
 
 ## License
 
